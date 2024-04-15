@@ -30,9 +30,9 @@
     一同參與人的學號、姓名：<input type="text" name="sName1" value="" placeholder="若沒有免填"  ></br>
     <P>
     精美獎品三選一：
-    <input type="radio" name="sGift" value="小盆栽">小盆栽
-    <input type="radio" name="sGift" value="可愛吊飾" checked>可愛吊飾
-    <input type="radio" name="sGift" value="手機架">手機架
+    <input type="radio" name="sGift" value="仙人掌盆栽">仙人掌小盆栽
+    <input type="radio" name="sGift" value="吊飾" checked>吊飾
+    <input type="radio" name="sGift" value="零食包">零食包
     </br>
     對本活動期待程度：<input type="range" name="sPercent"><br/>
     <p>
